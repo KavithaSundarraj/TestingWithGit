@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestingWithGit
+namespace Testingwithgit
 {
     class Program
     {
