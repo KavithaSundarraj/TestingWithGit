@@ -7,7 +7,11 @@ namespace TestingWithGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //New comment from Andreas
+            Console.WriteLine("Hello World2!");
+            Console.WriteLine("Hello World3!");
+            Console.WriteLine("Hello World4!");
+
+
         }
     }
 }
